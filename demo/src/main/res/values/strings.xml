@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParseSendClient ReceiveDemo</string>
+
+    <string name="dummy">This app is push notification receiver. If receive push notification,display message here.</string>
+</resources>
